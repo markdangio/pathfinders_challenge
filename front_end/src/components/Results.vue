@@ -55,8 +55,8 @@ export default {
           watch_list: '6816f79cc0a8016401c5a33be04be441',
         }, {
           auth: {
-            username: 'mark.dangio',
-            password: 'TiddlyWinks11!!',
+            username: 'admin',
+            password: 'password',
           },
         });
         if (res.status === 200) {
